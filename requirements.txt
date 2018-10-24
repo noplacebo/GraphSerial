@@ -1,0 +1,4 @@
+pyserial
+vispy
+numpy
+PyQt5
